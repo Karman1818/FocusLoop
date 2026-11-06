@@ -33,7 +33,7 @@ No distractions. Just you and your current loop.
 First, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/FocusLoop.git
+git clone https://github.com/Karman1818/FocusLoop.git
 cd FocusLoop
 npm install
 ```
@@ -73,8 +73,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to start y
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/your-username/FocusLoop/issues).
+Feel free to check the [issues page](https://github.com/Karman1818/FocusLoop/issues).
 
 ---
 
 Built with ❤️ using **Next.js**.
+
