@@ -3,9 +3,14 @@
 > **Work in short loops. Achieve real results.**  
 > A minimalist productivity tool built for focus and reflection.
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-focus--loop--kohl.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://focus-loop-kohl.vercel.app)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+<br />
+
+🚀 **Live Application:** **[https://focus-loop-kohl.vercel.app](https://focus-loop-kohl.vercel.app)**
 
 ---
 
@@ -78,4 +83,5 @@ Feel free to check the [issues page](https://github.com/Karman1818/FocusLoop/iss
 ---
 
 Built with ❤️ using **Next.js**.
+
 
